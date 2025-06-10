@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed8d30cb2898fa943963336945a23bf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - tripleShotPrefab: {instanceID: 0}
+  - shieldVisual: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

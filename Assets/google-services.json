@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "42989619343",
+    "firebase_url": "https://spaceshooterleaderboards-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "spaceshooterleaderboards",
+    "storage_bucket": "spaceshooterleaderboards.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42989619343:android:dc2c3c3cb9f4c39c6608fa",
+        "android_client_info": {
+          "package_name": "com.Viktor.SpaceShooter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfQnXfVNaj4_JkJgU_XqjH8G0KMuoaOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
